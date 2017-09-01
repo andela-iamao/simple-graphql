@@ -1,0 +1,22 @@
+{
+  "name": "simple-graphql",
+  "version": "1.0.0",
+  "description": "Simple graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-iamao/simple-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-iamao/simple-graphql/issues"
+  },
+  "homepage": "https://github.com/andela-iamao/simple-graphql#readme",
+  "dependencies": {
+    "graphql": "^0.11.2"
+  }
+}
